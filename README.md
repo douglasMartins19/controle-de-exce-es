@@ -1,2 +1,2 @@
-# controle-de-exce-es
+# controle-de-exceções
 Repositório co exemplos de tratamentos de exceções
